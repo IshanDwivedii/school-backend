@@ -67,12 +67,6 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- MySQL Driver (for production) -->
-        <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <scope>runtime</scope>
-        </dependency>
 
         <!-- Spring Boot DevTools -->
         <dependency>
